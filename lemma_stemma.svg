@@ -1,0 +1,181 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="476pt" viewBox="0.00 0.00 431.77 476">
+<g id="graph0" class="graph" transform="translate(42.159000390455276,434.52491544093834) scale(0.8717582395370631)" data-name="G">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-472 427.77,-472 427.77,4 -4,4"/>
+<!-- a -->
+<g id="node1" class="node" pointer-events="visible" data-name="a">
+
+<ellipse fill="none" stroke="black" cx="180.06" cy="-450" rx="27" ry="18"/>
+<text text-anchor="middle" x="180.06" y="-445.8" font-family="Times,serif" font-size="14.00">a</text>
+</g>
+<!-- P -->
+<g id="node2" class="node" pointer-events="visible" data-name="GA P46" data-comment="P">
+
+<ellipse fill="none" stroke="black" cx="83.06" cy="-378" rx="42.35" ry="18"/>
+<text text-anchor="middle" x="83.06" y="-373.8" font-family="Times,serif" font-size="14.00">GA P46</text>
+</g>
+<!-- 0 -->
+<g id="node3" class="node" pointer-events="visible" data-name="GA 01" data-comment="0">
+
+<ellipse fill="none" stroke="black" cx="180.06" cy="-378" rx="37.11" ry="18"/>
+<text text-anchor="middle" x="180.06" y="-373.8" font-family="Times,serif" font-size="14.00">GA 01</text>
+</g><g id="edge1" class="edge" data-name="a-&gt;GA 0150" data-comment="0">
+
+<path fill="none" stroke="black" d="M200.2,-437.44C218.31,-427.05 245.32,-411.55 266.97,-399.13"/>
+<polygon fill="black" stroke="black" points="268.56,-402.26 275.49,-394.24 265.07,-396.18 268.56,-402.26"/>
+</g><g id="edge6" class="edge" data-name="a-&gt;GA 01" data-comment="0">
+
+<path fill="none" stroke="black" d="M180.06,-431.7C180.06,-424.41 180.06,-415.73 180.06,-407.54"/>
+<polygon fill="black" stroke="black" points="183.56,-407.62 180.06,-397.62 176.56,-407.62 183.56,-407.62"/>
+</g><g id="edge7" class="edge" data-name="a-&gt;GA P46" data-comment="0">
+
+<path fill="none" stroke="black" d="M162.26,-436.16C148.46,-426.2 129.01,-412.16 112.84,-400.49"/>
+<polygon fill="black" stroke="black" points="115.15,-397.84 104.99,-394.83 111.05,-403.52 115.15,-397.84"/>
+</g>
+<!-- 0 -->
+
+<!-- 0 -->
+
+<!-- 0 -->
+<g id="node5" class="node" pointer-events="visible" data-name="GA 03" data-comment="0">
+
+<ellipse fill="none" stroke="black" cx="37.06" cy="-234" rx="37.11" ry="18"/>
+<text text-anchor="middle" x="37.06" y="-229.8" font-family="Times,serif" font-size="14.00">GA 03</text>
+</g>
+<!-- 0 -->
+<g id="edge12" class="edge" data-name="GA 01-&gt;Byz" data-comment="0">
+
+<path fill="none" stroke="black" d="M196.09,-361.81C205.49,-351.95 216.73,-338.3 223.06,-324 253.35,-255.53 252.48,-165.03 249.61,-119.6"/>
+<polygon fill="black" stroke="black" points="253.11,-119.52 248.9,-109.8 246.13,-120.03 253.11,-119.52"/>
+</g>
+<!-- 01c2 -->
+
+<!-- B -->
+
+<!-- Byz --><g id="edge3" class="edge" data-name="GA 2110-&gt;GA 1506" data-comment="Byz">
+
+<path fill="none" stroke="black" d="M377.06,-287.7C377.06,-280.41 377.06,-271.73 377.06,-263.54" stroke-dasharray="5,2"/>
+<polygon fill="black" stroke="black" points="380.56,-263.62 377.06,-253.62 373.56,-263.62 380.56,-263.62"/>
+</g><g id="edge8" class="edge" data-name="GA 01-&gt;GA 04" data-comment="Byz">
+
+<path fill="none" stroke="black" d="M158.13,-363.17C141.71,-352.82 119.01,-338.5 100.64,-326.91"/>
+<polygon fill="black" stroke="black" points="102.55,-323.98 92.22,-321.61 98.81,-329.9 102.55,-323.98"/>
+</g><g id="edge14" class="edge" data-name="GA 01-&gt;GA 33" data-comment="Byz">
+
+<path fill="none" stroke="black" d="M190.96,-360.61C197.01,-350.52 203.92,-337.05 207.06,-324 217.99,-278.44 211.2,-223.6 205.19,-191.11"/>
+<polygon fill="black" stroke="black" points="208.7,-190.84 203.34,-181.7 201.84,-192.19 208.7,-190.84"/>
+</g>
+
+<!-- Byz --><g id="edge13" class="edge" data-name="GA 01-&gt;GA 06" data-comment="Byz">
+
+<path fill="none" stroke="black" d="M175.36,-359.7C173.33,-352.24 170.91,-343.32 168.65,-334.97"/>
+<polygon fill="black" stroke="black" points="172.09,-334.3 166.09,-325.57 165.34,-336.13 172.09,-334.3"/>
+</g>
+<!-- Byz -->
+<!-- Byz -->
+<g id="node13" class="node" pointer-events="visible" data-name="Byz">
+
+<ellipse fill="none" stroke="black" cx="247.06" cy="-90" rx="27" ry="18"/>
+<text text-anchor="middle" x="247.06" y="-85.8" font-family="Times,serif" font-size="14.00">Byz</text>
+</g><g id="node7" class="node" pointer-events="visible" data-name="GA 06" data-comment="Byz">
+
+<ellipse fill="none" stroke="black" cx="161.06" cy="-306" rx="37.11" ry="18"/>
+<text text-anchor="middle" x="161.06" y="-301.8" font-family="Times,serif" font-size="14.00">GA 06</text>
+</g>
+<!-- 3 -->
+<g id="node8" class="node" pointer-events="visible" data-name="GA 33" data-comment="3">
+
+<ellipse fill="none" stroke="black" cx="199.06" cy="-162" rx="37.11" ry="18"/>
+<text text-anchor="middle" x="199.06" y="-157.8" font-family="Times,serif" font-size="14.00">GA 33</text>
+</g><g id="node4" class="node" pointer-events="visible" data-name="GA 02" data-comment="3">
+
+<ellipse fill="none" stroke="black" cx="145.06" cy="-234" rx="37.11" ry="18"/>
+<text text-anchor="middle" x="145.06" y="-229.8" font-family="Times,serif" font-size="14.00">GA 02</text>
+</g>
+<!-- 0 -->
+<g id="node9" class="node" pointer-events="visible" data-name="GA 0150" data-comment="0">
+
+<ellipse fill="none" stroke="black" cx="302.06" cy="-378" rx="46.93" ry="18"/>
+<text text-anchor="middle" x="302.06" y="-373.8" font-family="Times,serif" font-size="14.00">GA 0150</text>
+</g>
+<!-- 015 -->
+<g id="node10" class="node" pointer-events="visible" data-name="GA 0151" data-comment="015">
+
+<ellipse fill="none" stroke="black" cx="274.06" cy="-18" rx="46.93" ry="18"/>
+<text text-anchor="middle" x="274.06" y="-13.8" font-family="Times,serif" font-size="14.00">GA 0151</text>
+</g>
+<!-- 015 -->
+<g id="node11" class="node" pointer-events="visible" data-name="GA 2110" data-comment="015">
+
+<ellipse fill="none" stroke="black" cx="377.06" cy="-306" rx="46.93" ry="18"/>
+<text text-anchor="middle" x="377.06" y="-301.8" font-family="Times,serif" font-size="14.00">GA 2110</text>
+</g>
+<!-- 1 -->
+<g id="node12" class="node" pointer-events="visible" data-name="GA 1506" data-comment="1">
+
+<ellipse fill="none" stroke="black" cx="377.06" cy="-234" rx="46.93" ry="18"/>
+<text text-anchor="middle" x="377.06" y="-229.8" font-family="Times,serif" font-size="14.00">GA 1506</text>
+</g><g id="edge2" class="edge" data-name="GA 0150-&gt;GA 2110" data-comment="1">
+
+<path fill="none" stroke="black" d="M319.07,-361.12C328.69,-352.14 340.9,-340.74 351.63,-330.73" stroke-dasharray="1,5"/>
+<polygon fill="black" stroke="black" points="353.82,-333.48 358.74,-324.1 349.04,-328.36 353.82,-333.48"/>
+</g><g id="edge9" class="edge" data-name="GA 01-&gt;GA 03" data-comment="1">
+
+<path fill="none" stroke="black" d="M151.41,-366.21C145.68,-364.11 139.69,-361.95 134.06,-360 85.06,-343.01 53.55,-365.95 23.06,-324 10.14,-306.23 15.61,-281.17 23.18,-262.17"/>
+<polygon fill="black" stroke="black" points="26.31,-263.73 27.14,-253.17 19.91,-260.91 26.31,-263.73"/>
+</g>
+<!-- 03c -->
+
+<g id="node6" class="node" pointer-events="visible" data-name="GA 04" data-comment="03c">
+
+<ellipse fill="none" stroke="black" cx="69.06" cy="-306" rx="37.11" ry="18"/>
+<text text-anchor="middle" x="69.06" y="-301.8" font-family="Times,serif" font-size="14.00">GA 04</text>
+</g><g id="edge10" class="edge" data-name="GA 04-&gt;GA 03" data-comment="03c">
+
+<path fill="none" stroke="black" d="M61.31,-288.05C57.73,-280.23 53.4,-270.75 49.39,-261.98"/>
+<polygon fill="black" stroke="black" points="52.7,-260.81 45.36,-253.17 46.33,-263.72 52.7,-260.81"/>
+</g>
+
+<!-- Byz&#45;&gt; -->
+<!-- Byz&#45;&gt;GA 0151 --><g id="edge11" class="edge" data-name="GA 04-&gt;GA 02" data-comment="Byz-&gt;GA 0151">
+
+<path fill="none" stroke="black" d="M85.92,-289.46C95.96,-280.22 108.88,-268.32 120.08,-258"/>
+<polygon fill="black" stroke="black" points="122.14,-260.87 127.12,-251.52 117.4,-255.72 122.14,-260.87"/>
+</g>
+
+<!-- Byz&#45;&gt;GA 0151 -->
+<!-- Byz&#45;&gt;GA 0151 -->
+<!-- Byz&#45;&gt;GA 0151 -->
+<!-- Byz&#45;&gt;GA 0151 -->
+<!-- Byz&#45;&gt;GA 0151 -->
+
+<!-- Byz&#45;&gt;GA 0151 -->
+<!-- Byz&#45;&gt;GA 0151 -->
+
+<!-- Byz&#45;&gt;GA 0151 -->
+<g id="edge4" class="edge" data-name="Byz-&gt;GA 0151">
+
+<path fill="none" stroke="black" d="M253.59,-72.05C256.5,-64.52 260,-55.44 263.28,-46.94" stroke-dasharray="5,2"/>
+<polygon fill="black" stroke="black" points="266.51,-48.28 266.85,-37.69 259.98,-45.76 266.51,-48.28"/>
+</g><g id="edge15" class="edge" data-name="GA 02-&gt;GA 33" data-comment="Byz-&gt;GA 0151">
+
+<path fill="none" stroke="black" d="M157.58,-216.76C164.12,-208.28 172.28,-197.71 179.62,-188.2"/>
+<polygon fill="black" stroke="black" points="182.34,-190.4 185.67,-180.35 176.8,-186.13 182.34,-190.4"/>
+</g>
+<g id="edge16" class="edge" data-name="GA 33-&gt;Byz" data-comment="Byz-&gt;GA 0151">
+
+<path fill="none" stroke="black" d="M210.43,-144.41C216.27,-135.89 223.51,-125.33 230.01,-115.86"/>
+<polygon fill="black" stroke="black" points="232.79,-117.99 235.56,-107.76 227.02,-114.03 232.79,-117.99"/>
+</g>
+<g id="edge5" class="edge" data-name="GA 0150-&gt;GA 0151" data-comment="Byz-&gt;GA 0151">
+
+<path fill="none" stroke="black" d="M302.06,-359.51C302.06,-332.71 302.06,-279.87 302.06,-235 302.06,-235 302.06,-235 302.06,-161 302.06,-120.81 291.12,-75.4 282.92,-46.99"/>
+<polygon fill="black" stroke="black" points="286.37,-46.3 280.15,-37.72 279.66,-48.31 286.37,-46.3"/>
+</g>
+
+
+
+
+</g>
+</svg>

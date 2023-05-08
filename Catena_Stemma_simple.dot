@@ -1,0 +1,10 @@
+digraph G {
+    rankdir="TB";
+    node [shape="ellipse"]
+    "GA 0150"
+    "Unknown"
+    "GA 0150" -> "GA 2110" [label="1/122" style="dashed"];
+    "Unknown" -> "GA 0151"
+    "GA 2110" -> "GA 1506" [label="13/130"];
+    "GA 2110" -> "GA 0151" [label="40/127"];
+}
